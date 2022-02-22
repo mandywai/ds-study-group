@@ -38,7 +38,8 @@
 
 7. Add your information in **CSV format**:
 
-    - **NUMBER,"NAME","EMAIL","TIMEZONE","GITHUB","NOTES"**
+    - **NUMBER,"NAME","EMAIL","TIMEZONE","GITHUB_ADDRESS","POSSIBLE_TOPICS","NOTES"**
+    - If you have an idea on what you would like to do let us all know in **"POSSIBLE_TOPICS"**. Thanks
 
 8. Go to `Propose changes` at the bottom of the page.
 
